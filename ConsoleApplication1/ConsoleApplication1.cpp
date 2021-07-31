@@ -9,7 +9,7 @@ int main()
 
 	int c = a + b;
 
-	if(a == 0) {
+	if(a == 7) {
 		a = 4;
 	}
 
